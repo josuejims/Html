@@ -1,2 +1,2 @@
 # Html
-Dice Angela que como actividad del curso debo subir mi mini html
+Dice Angela que debo subir mi mini html
